@@ -1,20 +1,18 @@
 {
   "version": "1.0",
   "url": "https://hmzbytes.gumroad.com/l/Video_Studio_Pro",
-  "notes": {
-    "ar": "الإصدار الأول",
-    "en": "The first release"
-  },
-  "release_sig": "BuiA5AsczaIo-_hcKwtpvUQEom-tuAEfUCN7UgOjDfdFILfnyDqLv8j7JC_TYyIMcXXTe4vJ0dWKL-1k2pPlBg",
+  "sha256": "",
+  "notes": "الإصدار الأول | The first release",
+  "update_sig": "AkgA5ppNH_5g45VRJ4bvjJ2F20yRKd7Z3WBzaHJXyJ7HV5S6PUVRnmu93Hox3KvGWlUhJaKjW5sNCyQu7bWBCQ",
   "revoked": [],
-  "revoked_sig": "uj7y5-2_Lnb5lE9Fwy0ojMpNkzKMMj60dj_nM5TYVbgL059tcuwifOhdKCXqAIZQTEaYVtzrlpmNHaREdpO7CA",
+  "revoked_sig": "wTPczY02WqUCV93qdZ4zIKva-AD3SFJ-n2SIBivOBUHQyFPWVLcOyDsZflvTMpicjaVi4EwwpgWBoqJmLLQYBA",
   "payment": {
-    "price": "400",
+    "price": "900 EGP",
     "bank_name": "CIB",
     "bank_account": "100040309367",
     "instapay": "01150362890",
     "wallet": "01557783633",
     "whatsapp": "201150362890"
   },
-  "payment_sig": "HOiva6gkTMJgbxg6QdyIhZpx2H-cQDDr4YutPobzbFg_aCBeX0hN0bZtfVERqujMkyMQoYMf1W8yQF1b0nvyAg"
+  "payment_sig": "YVJaNzt98CZW1BtKtv4FRtnNgMoyORRa468LzPpBSw4L-er2s4gu_kRFGXJ4UsqbfwNLFzLFuZjVuOOHGG48Cg"
 }
